@@ -4,4 +4,4 @@ Here i will store writeups for CTFs (Capture the Flag comptetitions) or crackmes
 ## CTFs
 please check later, i'm kinda busy atm...
 ## CrackMes
-1. [AOLI crackmes][crackme/aoli/readme.md]
+1. [AOLI crackmes](crackme/aoli/readme.md)
