@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/mabbam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mabbamog.github.io
+  * I am mabbam (https://keybase.io/mabbam) on keybase.
+  * I have a public key with fingerprint BAC4 41E5 B313 77F6 5418  BF80 2723 793B 7781 B6E2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120530bdbd57ed40d5d540c02016c914169e9d5c92943fdd0710094fb338c4d5f4e0a",
+      "fingerprint": "bac441e5b31377f65418bf802723793b7781b6e2",
+      "host": "keybase.io",
+      "key_id": "2723793b7781b6e2",
+      "kid": "01017d9211066f5ad071fc5eef38b4863cf3e3acfc8e962531ea2e541a64276480bf0a",
+      "uid": "826fca3fff9bf19a5d0a6dfc848e8b19",
+      "username": "mabbam"
+    },
+    "service": {
+      "hostname": "mabbamog.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1532006234,
+  "expire_in": 157680000,
+  "prev": "6d8636842491620110a20f1c0acfe59c966f72a7aa62ab3b964b32753befc49e",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMN3AnicbVJpTFxVGAWGFhlaBbVkgADmSVpSFt++DC3VARppGstil7S2w33v3Tfz
+WGamM29YSihCFUNJaWmBNK04LClEK01FVIoVywCmKBZqTCrENpVN0MbEdCEQh/EN
+2h8m3j839/vOOfd8597hjRo/rf+Wl8tSSqo+n/b/bvB9p9+hrNMHyxHeKpYh+nKk
+AK5tsFCEDsVYIIuIHkExHKUIlBd5kWKgSKIiJVIkKqA4itECh5EYzUFOpAQO50hC
+EkWUwVCUIyWeIFiBFCmJhChAEhFJtpig3WaXLYoqywOBJDFI8QRGMIxEUyTG8hKL
+4gxOMBzBMwyL8TTEVaLZ6vAxVHM8cMBk2arW1INxzd7/4J/6RjFG5HAMQ2laooDP
+lyRQEEoEy5MsTQgSAQkgSAILORqnCAwCHKo2AE3iDE2yKC+t+XauybE4LQmAkCSJ
+4yWMA5SIAlpUySQLWR7jfEAHtFtAEVTRRYDnQRFSkYiotWJZgL5YfXP8p281JZtk
+xezk/5nJZrcqVsFaqPbNimJz6H18pczmI5RA3vivlJGXLaKapcoohnaHbLUgekxF
+Cors08YoAkdRGifIRASW2mQ7NMo+BMXQLKou3z2wWJWkRTUEmiVxksNo9TExFOCo
+hAmomgmkOIFTY2NwwABA44AneI4meQJnKIKHkkByEPENd9RiVbVp1ScwqZoO2WQB
+itMOkQr34FuBfv5av/XrAnyfzE8bHPr068Wxz3mzjnZEePaAI5V1yznapKzy5qji
+czeXX0j4FrY/o2kwZ1ye1ERuu1PtDs3t/bJ+uNNl874U+zi0byT+wb1QVzyYOHUs
+OKZ/9YlnMH3Sqb84GvPuF2M5qw+utN34ZrFn+8Ip029Kcbo3uKRzaMaTqhWEsPqP
+y68HPjz8zmDpTE3vVM3O+Jqv3Dtjdt/YlowuzgeO3L914CPXz2E/LaQe7DBuaqx/
+2NHpbs89PBvQlE+vSut3CbE131ecNzfvCZhza+c+fHExsroVvzRS2XJ15Y3XPDmj
+6a7NYxmZyyebl2Ne+f3RjrgGRyaGZB24KxzZ4o349esrl5v2LqQon/3hzY5O9t/w
+fFof6udd0iV4unTpQZe0kQMpU0Ghb8eG540lb5y/FvHIIZeWtNXFBWiZqsnxfMMv
+3bfvPbuh5ZghOi6qMqQp7M3oW6tgPjt8IvyTM11/vZc0cq3acDykcd9J835DwKba
+VlZf1Vj/p8axLvt2ZFdU548z09eX+tJOjLu2S3UDu9xLFttjpedi61jaxJOssHZ8
+R0buQP/AvqbdqVSBMXVo6+uZs4aizeUaXd1+3XDq+Ad556yjbbFT/WeVAtlpzOvu
+H2rPK6yNn957oXflTtti3IUfLFvvzxobrubpXJpXW3vcGTFJoOEsnl92N0SXEJQ7
+l1vbneI5cejmecPKcZjTcmbm06q/AdLjvKg=
+=ySfi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mabbam
+
+==================================================================
